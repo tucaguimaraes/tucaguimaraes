@@ -1,6 +1,15 @@
 # Carlos Artur Guimarães
 
 Education Data Scientist | GovTech | Public Policy | Digital Transformation of Education
+[![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
+![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
+![Power BI](https://img.shields.io/badge/PowerBI-Visualization-yellow)
+![GovTech](https://img.shields.io/badge/GovTech-Public%20Sector-green)
+![Education](https://img.shields.io/badge/Education-Policy-red)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Artur%20Guimarães-blue?logo=linkedin)](https://www.linkedin.com/in/carlosarturguimaraes/)
+[![Email](https://img.shields.io/badge/Email-contact-red)](mailto:carlostucaguimaraes@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tucaguimaraes&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tucaguimaraes&layout=compact)]
 
 I work at the intersection of **education policy, data governance and digital transformation of the State**, developing data infrastructures, analytics systems and evidence-based policy tools for education systems in Brazil and Latin America.
 
