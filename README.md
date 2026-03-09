@@ -1,10 +1,16 @@
 # Carlos Artur Guimarães
 
-Education Data Scientist | GovTech | Public Policy | AI in Education
+Education Data Scientist | GovTech | Public Policy | AI for Education
+
+I work at the intersection of **education policy, data governance and digital transformation of the State**, building data infrastructures, analytics systems and evidence-based tools to support decision-making in education systems across Brazil and Latin America.
+
+My work focuses on applying **data engineering, artificial intelligence and digital public infrastructure** to improve education policy design, monitoring and evaluation.
+
+---
 
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
-![Power BI](https://img.shields.io/badge/PowerBI-Visualization-yellow)
+![Power BI](https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow)
 ![GovTech](https://img.shields.io/badge/GovTech-Public%20Sector-green)
 ![Education](https://img.shields.io/badge/Education-Policy-red)
 
@@ -14,30 +20,27 @@ Education Data Scientist | GovTech | Public Policy | AI in Education
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tucaguimaraes&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tucaguimaraes&layout=compact)
 
-I work at the intersection of **education policy, data governance and digital transformation of the State**, developing data infrastructures, analytics systems and evidence-based policy tools for education systems in Brazil and Latin America.
-
-My work focuses on the use of **data engineering, AI and public sector architecture** to improve decision-making in education systems.
-
 ---
 
-## Current Work
+# About
 
-Specialist in **Education Innovation and Data Analysis** contributing to digital transformation initiatives in Brazilian education systems.
+Specialist in **education innovation and data analytics**, contributing to initiatives related to the digital transformation of education systems and public sector data infrastructure.
 
 Areas of work:
 
 • Education Data Governance  
 • Human Capital Analytics  
-• GovTech Architecture  
+• GovTech and Digital Public Infrastructure  
 • Artificial Intelligence in Education  
-• Public Policy Monitoring and Evaluation  
-• Digital Transformation of the State  
+• Monitoring and Evaluation of Public Policies  
 
 ---
 
-## Research Interests
+# Research Agenda
 
-My research agenda focuses on:
+My research focuses on the intersection of **data science, education systems and public policy**.
+
+Main themes:
 
 • Education Data Governance  
 • AI for Education Policy  
@@ -48,10 +51,11 @@ My research agenda focuses on:
 
 ---
 
-## Current Projects
+# Current Projects
 
-### Education Data Brazil
-Data pipelines and analytics for Brazilian education datasets.
+## Education Data Brazil
+
+Development of **data pipelines and analytics frameworks for Brazilian education datasets**.
 
 Datasets integrated:
 
@@ -62,37 +66,37 @@ Datasets integrated:
 • RAIS  
 • CAGED  
 
-Goal: create reproducible pipelines for education policy analysis.
+Goal: build reproducible data pipelines to support education policy research and analysis.
 
 ---
 
-### Human Capital Analytics
+## Human Capital Analytics
 
-Development of indicators and analytical tools to study **human capital formation and regional development in Brazil**.
+Development of analytical tools and indicators to study **human capital formation and regional development in Brazil**.
 
 Includes:
 
 • Human Capital Index models  
-• Education-to-labor market alignment  
-• Regional development analytics  
+• Education–labor market alignment analysis  
+• Regional development indicators  
 
 ---
 
-### GovTech Education Architecture
+## GovTech Education Architecture
 
 Research and implementation of **data architecture and interoperability frameworks for education systems**.
 
-Focus:
+Focus areas:
 
 • API-first government systems  
-• Education data interoperability  
+• education data interoperability  
 • digital public infrastructure  
 
 ---
 
-### AI for Education Policy
+## AI for Education Policy
 
-Exploration of machine learning and AI systems applied to:
+Exploration of machine learning and AI systems applied to education policy challenges:
 
 • teacher training recommendation systems  
 • learning analytics  
@@ -100,43 +104,43 @@ Exploration of machine learning and AI systems applied to:
 
 ---
 
-## Publications and Research
+# Publications and Research
 
-My academic work focuses on **computational thinking, education technologies and digital governance of education systems**.
+My academic work focuses on **computational thinking education, educational technologies and digital governance of education systems**.
 
-Selected areas:
+Research areas:
 
-• computational thinking education  
-• educational data mining  
-• AI in education  
-• public policy analytics  
+• Computational Thinking in Education  
+• Educational Data Mining  
+• Artificial Intelligence in Education  
+• Education Policy Analytics  
 
-Google Scholar profile will soon aggregate my publications.
+My publications will soon be aggregated in my Google Scholar profile.
 
 ---
 
-## Technical Stack
+# Technical Stack
 
-Languages
+### Programming
 
 Python  
 R  
 SQL  
 
-Data Engineering
+### Data Engineering
 
 Pandas  
 PySpark  
 ETL pipelines  
 Data Lake architectures  
 
-Analytics and Visualization
+### Data Analytics and Visualization
 
 Power BI  
 Looker Studio  
 Streamlit  
 
-Infrastructure
+### Infrastructure
 
 Docker  
 APIs  
@@ -144,28 +148,30 @@ Cloud data platforms
 
 ---
 
-## Education
+# Education
 
-Master's Degree in Innovation and Educational Technologies
+Master's Degree in **Innovation and Educational Technologies**.
 
 Research focused on **teacher training in computational thinking through digital games**.
 
-Future research direction: **AI-driven systems for teacher training and education policy analysis.**
+Future research direction:
+
+AI-driven systems for **teacher training, education analytics and policy decision support**.
 
 ---
 
-## Collaboration
+# Collaboration
 
-I am interested in collaborations related to:
+I am interested in collaborations in the areas of:
 
-• education data systems  
-• public sector data infrastructure  
+• education data infrastructure  
+• digital government systems  
 • AI applications in education  
 • education policy analytics  
 
 ---
 
-## Contact
+# Contact
 
 LinkedIn  
 https://www.linkedin.com/in/carlosarturguimaraes/
@@ -175,11 +181,11 @@ carlostucaguimaraes@gmail.com
 
 ---
 
-## Vision
+# Vision
 
 Building **data-driven education systems in Latin America** through:
 
-• open data  
+• open education data  
 • advanced analytics  
 • digital public infrastructure  
 • evidence-based policymaking
