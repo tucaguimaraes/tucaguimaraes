@@ -1,10 +1,10 @@
+![Profile Views](https://komarev.com/ghpvc/?username=tucaguimaraes&color=blue)
+
 # Carlos Artur Guimarães
 
 Education Data Scientist | GovTech | Public Policy | AI for Education
 
 I work at the intersection of **education policy, data governance and digital transformation**, building data infrastructures and analytics tools to support **evidence-based education systems in Brazil and Latin America**.
-
----
 
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-orange)
@@ -14,17 +14,18 @@ I work at the intersection of **education policy, data governance and digital tr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Artur%20Guimarães-blue?logo=linkedin)](https://www.linkedin.com/in/carlosarturguimaraes/)
 [![Email](https://img.shields.io/badge/Email-contact-red)](mailto:carlostucaguimaraes@gmail.com)
+
 ---
 
 ## Research & Work
 
 Focus areas:
 
-• Education Data Governance  
-• Human Capital Analytics  
-• GovTech and Digital Public Infrastructure  
-• Artificial Intelligence in Education  
-• Monitoring and Evaluation of Public Policies  
+- Education Data Governance  
+- Human Capital Analytics  
+- GovTech and Digital Public Infrastructure  
+- Artificial Intelligence in Education  
+- Monitoring and Evaluation of Public Policies  
 
 ---
 
@@ -46,10 +47,17 @@ Machine learning applications for teacher training, learning analytics and educa
 
 ## Technical Stack
 
-**Programming**  : Python, R e  SQL;  
-**Data Engineering**  : Pandas, PySpark, ETL Pipelines e Data Lakes;
-**Analytics & Visualization**  : Power BI, Looker Studio, Streamlit;  
-**Infrastructure**  : APIs, Docker e Cloud Data Platforms.  
+**Programming**  
+Python · R · SQL  
+
+**Data Engineering**  
+Pandas · PySpark · ETL Pipelines · Data Lakes  
+
+**Analytics & Visualization**  
+Power BI · Looker Studio · Streamlit  
+
+**Infrastructure**  
+APIs · Docker · Cloud Data Platforms  
 
 ---
 
