@@ -46,17 +46,13 @@ Machine learning applications for teacher training, learning analytics and educa
 
 ## Technical Stack
 
-**Programming**  
-Python • R • SQL  
+**Programming**  : Python • R • SQL  
 
-**Data Engineering**  
-Pandas • PySpark • ETL Pipelines • Data Lakes  
+**Data Engineering**  : Pandas • PySpark • ETL Pipelines • Data Lakes  
 
-**Analytics & Visualization**  
-Power BI • Looker Studio • Streamlit  
+**Analytics & Visualization**  : Power BI • Looker Studio • Streamlit  
 
-**Infrastructure**  
-APIs • Docker • Cloud Data Platforms  
+**Infrastructure**  : APIs • Docker • Cloud Data Platforms  
 
 ---
 
